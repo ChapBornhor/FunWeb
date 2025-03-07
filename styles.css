@@ -1,0 +1,35 @@
+body {
+    background-color: #D9E4CB;
+
+
+}
+#information {
+    text-align: center;
+}
+#middle {
+    display: flex;
+    justify-content: center;
+    gap: 3rem;
+    margin-bottom: 2rem;
+}
+#middle img {
+    border-radius: 20px;
+}
+hr {
+    border-radius: 100%;
+    width: 75%;
+}
+#pictures img {
+    border-radius: 20px;
+
+}
+#pictures {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+.text {
+    width: 16rem;
+    text-align: center;
+
+}
